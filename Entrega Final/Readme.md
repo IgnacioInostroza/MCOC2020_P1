@@ -1,1 +1,1 @@
-
+Por problemas de tiempo no pude realizar un analisis de la convergencia en la entega 5. Sin embargo para poder completar la entrega final, en una primera instancia implementé los terminos J2 y J3, de donde obtuve valores para la deriva muy altos de mas de 13.000 km. Posteriormente para esta entrega implementé los terminos Jn con n=2,3,4,5,6,7,8, con lo que obtuve una aproximacion mucho mayor, de alrrededor de 5 km, esto dependerá del archivo EOF que se ejecute.  
